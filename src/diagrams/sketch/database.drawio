@@ -1,0 +1,124 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.0 Chrome/140.0.7339.249 Electron/38.7.2 Safari/537.36" version="29.3.0">
+  <diagram name="Page-1" id="KEDwhsQAFX-6xe6pphxF">
+    <mxGraphModel dx="1426" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_YcFecRXHSrlufOy6je8-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;b data-path-to-node=&quot;2&quot; data-index-in-node=&quot;0&quot;&gt;Database Operations Workflow&lt;/b&gt;&lt;br&gt;&lt;i data-path-to-node=&quot;2&quot; data-index-in-node=&quot;39&quot;&gt;&lt;br&gt;Visualizing the sequence of task execution and database communication protocols.&lt;/i&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="210" width="420" x="214.55" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-4" edge="1" parent="1" source="_YcFecRXHSrlufOy6je8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_YcFecRXHSrlufOy6je8-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-7" edge="1" parent="1" source="_YcFecRXHSrlufOy6je8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_YcFecRXHSrlufOy6je8-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="235" y="600" />
+              <mxPoint x="235" y="700" />
+            </Array>
+            <mxPoint x="240" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-10" edge="1" parent="1" source="_YcFecRXHSrlufOy6je8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_YcFecRXHSrlufOy6je8-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-11" edge="1" parent="1" source="_YcFecRXHSrlufOy6je8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_YcFecRXHSrlufOy6je8-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="615" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-3" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;" value="" vertex="1">
+          <mxGeometry height="88.14" width="119.11" x="365" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="INSERT TASK" vertex="1">
+          <mxGeometry height="50.42" width="100.84" x="65" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-42" edge="1" parent="1" source="_YcFecRXHSrlufOy6je8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.533;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" target="_YcFecRXHSrlufOy6je8-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="GET TASK" vertex="1">
+          <mxGeometry height="50.42" width="100.84" x="185" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-44" edge="1" parent="1" source="_YcFecRXHSrlufOy6je8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.532;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;" target="_YcFecRXHSrlufOy6je8-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="GET IS TASK COMPLETE" vertex="1">
+          <mxGeometry height="50.42" width="100.84" x="565" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="MARK TASK COMPLETE" vertex="1">
+          <mxGeometry height="50.42" width="100.84" x="685" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b data-path-to-node=&quot;2&quot; data-index-in-node=&quot;0&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Database Concurrency Limit&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Only one task may exist in the database at any given time. A new task cannot be inserted until the current task is processed or removed.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="140" width="249.35" x="80.83000000000004" y="213" as="geometry" />
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-24" parent="1" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" value="Assets" vertex="1">
+          <mxGeometry height="105.06" width="279.17" x="284.96999999999997" y="392" as="geometry" />
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-25" parent="_YcFecRXHSrlufOy6je8-24" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1">
+          <mxGeometry height="50" width="279.17" as="geometry" />
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-26" parent="_YcFecRXHSrlufOy6je8-25" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" value="TIME" vertex="1">
+          <mxGeometry height="50" width="67" as="geometry">
+            <mxRectangle height="50" width="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-27" parent="_YcFecRXHSrlufOy6je8-25" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" value="TASK" vertex="1">
+          <mxGeometry height="50" width="107" x="67" as="geometry">
+            <mxRectangle height="50" width="107" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-28" parent="_YcFecRXHSrlufOy6je8-25" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" value="COMPLETE" vertex="1">
+          <mxGeometry height="50" width="105" x="174" as="geometry">
+            <mxRectangle height="50" width="105" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-29" parent="_YcFecRXHSrlufOy6je8-24" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="55" width="279.17" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-30" parent="_YcFecRXHSrlufOy6je8-29" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;fontColor=#808080;" value="Today, 14:30" vertex="1">
+          <mxGeometry height="55" width="67" as="geometry">
+            <mxRectangle height="55" width="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-31" parent="_YcFecRXHSrlufOy6je8-29" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;fontColor=#808080;" value="&lt;span style=&quot;&quot;&gt;Unlock car&lt;/span&gt;" vertex="1">
+          <mxGeometry height="55" width="107" x="67" as="geometry">
+            <mxRectangle height="55" width="107" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-32" parent="_YcFecRXHSrlufOy6je8-29" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;fontColor=#808080;" value="False" vertex="1">
+          <mxGeometry height="55" width="105" x="174" as="geometry">
+            <mxRectangle height="55" width="105" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-38" edge="1" parent="1" source="_YcFecRXHSrlufOy6je8-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_YcFecRXHSrlufOy6je8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="DELETE TASK" vertex="1">
+          <mxGeometry height="50.42" width="100.84" x="65" y="699" as="geometry" />
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-40" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="DICT" vertex="1">
+          <mxGeometry height="47.5" width="95" x="185" y="811" as="geometry" />
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-43" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="BOOL" vertex="1">
+          <mxGeometry height="47.5" width="95" x="565" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b data-path-to-node=&quot;3&quot; data-index-in-node=&quot;0&quot; style=&quot;text-align: center;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Command Expiration Policy&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;text-align: center;&quot;&gt;&lt;font style=&quot;text-align: center; font-size: 14px;&quot;&gt;All tasks are assigned a 2-minute validity window. This measure prevents the execution of stale commands that may accumulate during server or vehicle connectivity interruptions.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="157" width="249.35" x="520" y="212" as="geometry" />
+        </mxCell>
+        <mxCell id="_YcFecRXHSrlufOy6je8-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="IF SPECIFIED" vertex="1">
+          <mxGeometry height="30" width="60" x="50" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="MnYdEhNQo8lBw8UKEFfX-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sketched by Agam" vertex="1">
+          <mxGeometry height="45" width="90" x="40" y="1035.25" as="geometry" />
+        </mxCell>
+        <mxCell id="MnYdEhNQo8lBw8UKEFfX-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Version 1.0&lt;br&gt;Date: 15.01.2026" vertex="1">
+          <mxGeometry height="52.75" width="105.36" x="720" y="1030" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
